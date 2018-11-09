@@ -1,6 +1,6 @@
 // add your Reference_Variable_If code here
-int X= 115;
-int Y= 115;
+int x= 115;
+int y= 115;
 int bounce= -10;
 
 void setup() {
