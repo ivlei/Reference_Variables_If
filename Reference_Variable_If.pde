@@ -1,11 +1,11 @@
 // add your Reference_Variable_If code here
-int X= 115;
-int Y= 115;
-int bounce= -10;
-
 void setup() {
   size(300,300);
 }
+
+int X= 115;
+int Y= 115;
+int bounce= -10;
 
 void draw() {
   background(0,0,255);
